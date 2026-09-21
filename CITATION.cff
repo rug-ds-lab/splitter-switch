@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Splitter-Switch: In-Network Management of Parallel Data Streams"
+authors:
+  - family-names: "Boughzala"
+    given-names: "Bochra"
+  - family-names: "Koldehofe"
+    given-names: "Boris"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Boughzala"
+      given-names: "Bochra"
+    - family-names: "Koldehofe"
+      given-names: "Boris"
+  title: "In-Network Management of Parallel Data Streams over Programmable Data Planes"
+  year: 2024
+  collection-title: "2024 IFIP Networking Conference (IFIP Networking)"
+  pages: "50-58"
+  doi: "10.23919/IFIPNetworking62109.2024.10619822"
